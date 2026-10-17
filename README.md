@@ -26,4 +26,8 @@ The Hospital Bed Availability System is a Python-based project developed using J
 3. Run the notebook cells in order.
 
 ## Project Objective
-The main objective of this project is to reduce manual work, save time, and maintain organized hospital bed records.
+- Check hospital bed availability quickly and identify available, occupied, and  reserved beds in different wards.
+- To maintain complete bed information such as bed number, ward name, bed type, and current status in one system.
+- To easily update bed status when a patient is admitted, discharged, or a bed is reserved.
+- To reduce manual work and save time by avoiding registers and improving accurate bed management.
+
